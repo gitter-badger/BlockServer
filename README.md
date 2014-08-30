@@ -12,5 +12,5 @@ Work on world generation and saving (IMPORTANT!) (Unassigned)
 Implement player save data (Unassigned)
 
 
-Please note that we are looking for contributers, I can't do this alone!
-You can contact me at: blockserverproject@outlook.com
+Please note that we are looking for contributors, I can't do this alone!
+You can contact us at: blockserverproject@outlook.com
